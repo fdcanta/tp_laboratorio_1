@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1599940531 source:c:\users\legion\documents\codeblock\calculadora\funciones.c
+	"headers.h"
+
+1599940531 c:\users\legion\documents\codeblock\calculadora\headers.h
+
+1599915391 source:c:\users\legion\documents\codeblock\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1599910283 c:\users\legion\documents\codeblock\calculadora\funciones.c
+
+1599941355 source:c:\users\legion\desktop\tp1\tp-1-programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1599940531 c:\users\legion\desktop\tp1\tp-1-programacion\headers.h
+
+1599940531 source:c:\users\legion\desktop\tp1\tp-1-programacion\funciones.c
+	"headers.h"
+
